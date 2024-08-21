@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Julian González** - I am a self-taught web developer. I'm interested in development, UX/UI design. I work on random projects in my free time.
 
-👀 **Languages and tools**
+### Languages and tools
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,php,nodejs,py,tailwind,vue,react,git)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzdv&hide_progress=true)
